@@ -13,7 +13,7 @@ let precolivros = [
         titulo: "Dom Quixote em quadrinhos",
         preco: 61.67
     }, 
-
+    
     {
         titulo: "Quatro Vidas de um Cachorro",
         preco: 41.15
@@ -45,8 +45,8 @@ let precolivros = [
     },
 
     {
-        titulo: "Dom Casmurro",
-        preco: 17.86
+        titulo: "O Senhor dos Ladrões",
+        preco: 15.00
     }
    
 ]
